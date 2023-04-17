@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a REST API using the MERN stack and TypeScript<br>🤝 I’m looking for full time engineering positions<br>🌱 I’m currently studying smart contract auditing on Ethereum  <br>💬 Ask me about my projects
+🔭 I’m currently working on building a REST API using the MERN stack and TypeScript. Also working on a React Native project called AwareCity for my senior project. <br>🤝 I’m looking for full time engineering positions<br>🌱 I’m currently studying smart contract auditing on Ethereum  <br>💬 Ask me about my projects
 
 
 ## 🌐 Socials:
