@@ -8,7 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaderlock&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaderlock&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme (refresh for another one)
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
