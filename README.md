@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building my python scripts portfolio <br>
+🔭 I’m currently building on my Java/Python skills <br>
 🤝 I’m looking for full time engineering positions <br>
 🌱 I’m studying smart contract auditing on Ethereum  <br>
 💬 Ask me about my projects
