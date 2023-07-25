@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently building on my Java/Python skills <br>
-🤝 I’m looking for full time engineering positions <br>
-🌱 I’m studying smart contract auditing on Ethereum  <br>
+🔭 Currently building on my OOP skills <br>
+🤝 SWE in FinTech <br>
+🌱 Studying smart contract auditing on Ethereum  <br>
 💬 Ask me about my projects
 
 # 💻 Tech Stack:
